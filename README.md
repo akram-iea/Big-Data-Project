@@ -6,13 +6,16 @@
 </p>
 
  
-  
+**Auteurs :**
 - Achraf BELLA
 - Afaf
 - Manal
 - Akram 
 
-Année académique : 2021/2022
+
+ <p align="center">
+ **Année académique : 2021/2022**
+</p>
 
 Abstract
 --------
