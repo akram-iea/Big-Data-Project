@@ -20,6 +20,11 @@
 - AFAF EL KALAI
 - MANAL EL IDRISSI
 - AKRAM IBN EL AHMER
+
+ <p align="right">
+ Supervisé par: Stéphane Derrode
+
+</p>
  
  <p align="center">
 Année académique : 2021/2022 
