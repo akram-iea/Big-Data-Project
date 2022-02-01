@@ -7,10 +7,15 @@
 
 
  <p align="center">
- Module:  Technologies du Big Data \\
+ Module:  Technologies du Big Data  
  
- Sujet : Web des données
- </p>
+  </p>
+  
+   <p align="center">
+Web des données
+ 
+  </p>
+ 
  
  
  <p>&nbsp;</p>
